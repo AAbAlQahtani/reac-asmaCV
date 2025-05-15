@@ -11,6 +11,13 @@ let element = <div>
         <h1 className="container">Asma AlQahtani CV</h1>
 
         <div>
+            <h2>Contact:</h2>
+            <p>Email: asmaalqhtani123@gmail.com</p>
+            <p>Phone: +966 501129115</p>
+            <p>Location: Riyadh, Saudi Arabia</p>
+        </div>
+        
+        <div>
             <h2>Experience:</h2>
             <p><strong>Software Quality Assurance</strong></p>
             <ul>
@@ -39,13 +46,6 @@ let element = <div>
                 <li>Analytical and problem-solving</li>
                 <li>Time management & Teamwork</li>
             </ul>
-        </div>
-
-        <div>
-            <h2>Contact:</h2>
-            <p>Email: asmaalqhtani123@gmail.com</p>
-            <p>Phone: +966 501129115</p>
-            <p>Location: Riyadh, Saudi Arabia</p>
         </div>
 
         <div>
