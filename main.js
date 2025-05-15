@@ -12,7 +12,7 @@ let element = <div>
 
         <div>
             <h2>Experience:</h2>
-            <p><strong>Software Quality Controller</strong> - Princess Norah University</p>
+            <p><strong>Software Quality Assurance</strong></p>
             <ul>
                 <li>Analyzed requirements and acceptance criteria.</li>
                 <li>Led review meetings to ensure team alignment.</li>
